@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.google-signin-unity-test.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\hatin\UnityProjects\google-signin-unity-test\.idea\.idea.google-signin-unity-test\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
