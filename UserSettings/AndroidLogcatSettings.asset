@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "ZY227SVMLB",
         "name": "com.DefaultCompany.googlesigninunitytest",
-        "processId": 9325,
+        "processId": 22370,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -12,6 +12,42 @@
             "deviceId": "ZY227SVMLB",
             "name": "com.DefaultCompany.googlesigninunitytest",
             "processId": 9325,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY227SVMLB",
+            "name": "com.DefaultCompany.googlesigninunitytest",
+            "processId": 14626,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY227SVMLB",
+            "name": "com.DefaultCompany.googlesigninunitytest",
+            "processId": 20077,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY227SVMLB",
+            "name": "com.DefaultCompany.googlesigninunitytest",
+            "processId": 20562,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY227SVMLB",
+            "name": "com.DefaultCompany.googlesigninunitytest",
+            "processId": 21003,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY227SVMLB",
+            "name": "com.DefaultCompany.googlesigninunitytest",
+            "processId": 21819,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY227SVMLB",
+            "name": "com.DefaultCompany.googlesigninunitytest",
+            "processId": 22370,
             "exited": false
         }
     ],
